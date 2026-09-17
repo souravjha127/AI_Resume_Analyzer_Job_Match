@@ -9,7 +9,7 @@ The application analyzes an uploaded resume, extracts structured career informat
 ## 🚀 Live Demo
 
 **Streamlit App:**  
-[Open the Live Application]([YOUR_STREAMLIT_APP_URL](https://airesumeanalyzerjobmatch-lndxucczlhupex8ddcuqos.streamlit.app/))
+[Open the Live Application](https://airesumeanalyzerjobmatch-lndxucczlhupex8ddcuqos.streamlit.app/)
 
 > Replace `YOUR_STREAMLIT_APP_URL` with your deployed Streamlit application URL after deployment.
 
